@@ -13,4 +13,7 @@ public class Action {
 	public void get2(){
 		System.out.println("Update for Internet");
 	}
+	public void get3(){
+		System.out.println("Update for Internet2");
+	}
 }
