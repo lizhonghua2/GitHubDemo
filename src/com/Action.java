@@ -7,4 +7,7 @@ public class Action {
 	public void find(){
 		System.out.println("Hello Wrold");
 	}
+	public void get(){
+		System.out.println("Hello Wrold");
+	}
 }
