@@ -10,4 +10,7 @@ public class Action {
 	public void get(){
 		System.out.println("Hello Wrold");
 	}
+	public void get2(){
+		System.out.println("Update for Internet");
+	}
 }
